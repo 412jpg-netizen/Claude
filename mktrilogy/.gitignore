@@ -1,0 +1,13 @@
+# Game data never goes in the repo: inputs, builds, renders.
+*.sfc
+*.smc
+*.swc
+*.fig
+*.bin
+*.ips
+*.bps
+roms/
+build/
+out/
+renders/
+__pycache__/
